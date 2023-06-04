@@ -1,2 +1,1 @@
 # OpenMMLab-
-class3
